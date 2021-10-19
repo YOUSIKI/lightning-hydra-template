@@ -15,7 +15,7 @@ dependencies:
   - imageio
   - imageio-ffmpeg
   - ffmpeg
-  - ax
+  - av
   - numpy
   - scipy
   - scikit-image
