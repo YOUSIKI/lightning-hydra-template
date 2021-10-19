@@ -15,6 +15,8 @@ Click on [<kbd>Use this template</kbd>](https://github.com/ashleve/lightning-hyd
 
 *Suggestions are always welcome!*
 
+**This repo is forked from [the original project](https://github.com/ashleve/lightning-hydra-template) and modified by [YouSiki](mailto:you.siki@outlook.com)**
+
 </div>
 <br><br>
 
